@@ -69,6 +69,8 @@ yarn install
 
 3. Run the development server:
 ```bash
+npm install
+# and
 npm run dev
 # or
 yarn dev
